@@ -55,17 +55,17 @@ for metadata in file_metadata_generator(directory):
 ## 🧪 Sample Output
 
 ```
-Inspecting files in: /Users/jane/Documents
+Inspecting files in: /Users/you/Documents
 
 File: resume.pdf
 Size: 48976 bytes
-Created: Mon May  1 14:23:12 2023
-Modified: Wed May  3 11:08:34 2023
+Created: Mon May  1 14:23:12 2025
+Modified: Wed May  3 11:08:34 2025
 
 File: notes.txt
 Size: 1024 bytes
-Created: Tue Apr 25 09:12:10 2023
-Modified: Tue Apr 25 09:12:10 2023
+Created: Tue Apr 25 09:12:10 2025
+Modified: Tue Apr 25 09:12:10 2025
 ```
 
 ---
