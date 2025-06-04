@@ -85,8 +85,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 💡 Credits
 
-Built with ❤️ using Python, by [Your Name].
-
----
