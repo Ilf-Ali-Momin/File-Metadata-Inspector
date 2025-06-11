@@ -47,7 +47,7 @@ for metadata in file_metadata_generator(directory):
 
 2. **Run the script**:
     ```bash
-    python main.py --file /path/to/your/folder
+    python demo.py 
     ```
 
 ---
